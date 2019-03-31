@@ -1,4 +1,3 @@
-#code used from stackoverflow/github
 import math
 
 
